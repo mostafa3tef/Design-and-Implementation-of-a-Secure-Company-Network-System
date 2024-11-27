@@ -46,8 +46,3 @@ This project focuses on designing and implementing a secure corporate network sy
 ## License
 This project is licensed under the MIT License. Feel free to use and modify for educational and professional purposes.
 
-```
-
----
-
-يمكنك تخصيص النصوص حسب احتياجاتك وإضافة روابط أو معلومات إضافية حسب الضرورة.
